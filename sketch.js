@@ -38,7 +38,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(screen.width* 1.8, screen.height* 1.4);
+  createCanvas(screen.width* 1.4, screen.height* 1.3);
   background(220);
 
   // Initialize p5.SpeechRec
